@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm François mostly known as mal0004! 
 
- # Social Media Links: 
+ ### Social Media Links: 
  
 - Send me an email: info@mal0004.tech (For non-urgent matters. Response time of 5-7 days.) 
 - Send me an email: support@mal0004.tech (Rapid response within 24 hours, used as much as possible for urgent matters.) 
