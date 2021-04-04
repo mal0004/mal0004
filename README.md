@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Discord](https://discord.c99.nl/widget/theme-1/287982988438929418.png)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mal0004)](https://github.com/anuraghazra/github-readme-stats)
