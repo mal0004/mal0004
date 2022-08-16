@@ -2,9 +2,9 @@
 
  #### Social Media Links: 
  
-- Send me an email: info@mal0004.com (For non-urgent matters. Response time of 5-7 days.) 
+- Send me an email: NaN (For non-urgent matters. Response time of 5-7 days.) 
 - Follow me on twitter: [Click here](https://twitter.com/mal0004_)
-- My discord username: mal0004#6666
+- My discord username: mal0004#8504
 - My website: https://mal0004.com/
 
 
